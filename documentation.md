@@ -1,0 +1,1 @@
+git is a tool while github is a hosting platform
